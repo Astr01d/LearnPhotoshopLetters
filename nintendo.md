@@ -1,7 +1,9 @@
-# LearnPhotoshopLetters
+# Learn Photoshop Letters
 A small tutorial for people to learn nuggets about typography for Photoshop
 
 # Nintendo
+
+![Hosted image](https://raw.githubusercontent.com/Koterminion/LearnPhotoshopLetters/master/Nintendo.png)
 
 1. Create a new file at any resolution, preferably as big as possible, in this case I am using one with a grey background with the dimension of 1920x1080.
 2. Create a new layer folder, let's call this 'Nintendo'.
